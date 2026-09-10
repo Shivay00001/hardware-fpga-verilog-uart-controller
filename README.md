@@ -40,3 +40,8 @@ vvp uart_sim
 ## 📄 License
 
 MIT License
+
+
+## Prerequisites
+- Required environment and dependencies
+
