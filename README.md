@@ -1,5 +1,7 @@
 # Shivay00001/hardware-fpga-verilog-uart-controller
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 An elite, professional-grade repository engineered for high performance.
 
 ## 🚀 Overview
